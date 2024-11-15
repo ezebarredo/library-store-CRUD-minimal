@@ -4,5 +4,5 @@ A minimalistic library store application that allows users to **Create**, **Read
 
 ## Tech Stack
 
-- **Frontend**: React
+- **Frontend**: React & Typescript
 - **State Management**: Zustand
