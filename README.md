@@ -6,3 +6,5 @@ A minimalistic library store application that allows users to **Create**, **Read
 
 - **Frontend**: React & Typescript
 - **State Management**: Zustand
+
+Demo: https://vwv55k.csb.app/
