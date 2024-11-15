@@ -20,7 +20,7 @@ export default function Libray() {
   } = store();
 
   const updateName = () => {
-    const newName = "Phil Collins";
+    const newName = "Albert Johnson";
     updateMemberName(newName);
   };
 

@@ -16,9 +16,9 @@ export type Book = {
 };
 
 const store = create<LibraryState>((set) => ({
-  memberName: "Charly Garcia",
+  memberName: "Joe Doe",
 
-  books: [{ id: 1, title: "Los pajaros que vuelan." }],
+  books: [{ id: 1, title: "First book" }],
 
   updateMemberName: (name: string) => set(() => ({ memberName: name })),
 
