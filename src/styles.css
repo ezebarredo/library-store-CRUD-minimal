@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+body {
+  background: black;
+  color: white;
+  padding: 20px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  background: grey;
+  padding: 10px;
+  margin-bottom: 10px;
+}
